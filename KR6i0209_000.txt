@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大乘流轉諸有經
+#+DATE: 2015-08-30 20:12:51.867584
+#+PROPERTY: JUAN 0
