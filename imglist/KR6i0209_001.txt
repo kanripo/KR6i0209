@@ -1,0 +1,4 @@
+001-0950a11	TKD 13-1318c	buddhist/K-koreana/13-tif/1300-1399/13_1318_C.TIF
+001-0950b01	TKD 13-1319a	buddhist/K-koreana/13-tif/1300-1399/13_1319_A.TIF
+001-0950a00	T 001-0950a	buddhist/T-taisho/T14/09/T14-0950.png
+001-0950b00	T 001-0950b	buddhist/T-taisho/T14/09/T14-0950.png
