@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:51.608478
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:54
 #+TITLE: 佛說大乘流轉諸有經
 #+PROPERTY: CBETA_ID T14n0577
 #+PROPERTY: ID KR6i0209
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 577
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0209_T_000-0949c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0209_T_001-0949c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.577[Nos.575,576]¶
-
- 佛說大乘流轉諸有經¶
+No. 577 [Nos. 575, 576]¶
+佛說大乘流轉諸有經¶
 ¶
 大唐三藏法師義淨奉　制譯¶
 
@@ -106,9 +105,9 @@ No.577[Nos.575,576]¶
 　眼不見於色，
 　意亦不知法，¶
 　是名勝義諦，
-　愚者不能知。」
+　愚者不能知。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，世尊說此法已，摩揭陀主影勝大王深¶
 心頂受。時諸苾芻，及大菩薩、人天等眾，皆¶
